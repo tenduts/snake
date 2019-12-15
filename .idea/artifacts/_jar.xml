@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="贪吃蛇:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="root">
+      <element id="archive" name="贪吃蛇.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/image/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="贪吃蛇" />
+      </element>
+    </root>
+  </artifact>
+</component>
